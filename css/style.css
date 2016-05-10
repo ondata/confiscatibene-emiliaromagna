@@ -1,0 +1,70 @@
+header {
+background: white;
+} 
+
+div#cbmap {
+    padding-top: 80px;
+}
+
+header .container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar-default, section.success a:hover {
+    background-color:#EB593C;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, li.dropdown.open a.dropdown-toggle {
+  color: #ffffff;
+/*  background-color: #C3543E;
+  text-decoration: overline;*/
+}
+
+.navbar a:hover, .navbar-default, .navbar-brand:hover, .navbar-default, .navbar-brand:focus {
+  color:white !important;
+  text-decoration:underline !important;
+}
+
+.btn{
+  color:white !important;
+}
+
+/* media partners */
+
+#partners li {
+  list-style:none;
+  margin:10px;
+}
+
+#partners ul {
+  padding:0px
+}
+
+#partners li img {
+  max-height:40px;
+}
+
+p {
+  font-size:    20px !important;
+  line-height: 1.58 !important;
+  font-family: Georgia;
+}
+
+section {
+    padding:50px;
+}
+
+h3 {
+    padding-top:100px;
+}
+h3#intro {
+    padding-top:0px;
+}
+a.navbar-brand {
+    font-size:1.5em !important;
+}
+
+header .intro-text .name {
+    font-size: 4rem;
+}
